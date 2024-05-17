@@ -36,7 +36,8 @@ Now AES-Encryption.cpp
 # Simple AES File Encryption/Decryption Program
 This C++ program implements a simple file encryption and decryption algorithm based on the Caesar cipher technique. The program takes a key value, an operation mode (encryption or decryption), and a file name as input. It then performs the specified operation on the input file and generates a new output file containing the encrypted or decrypted data.
 
-Features
+## Features
+
 Encrypts or decrypts a file using a Caesar cipher-like algorithm.
 Supports alphabetic characters (both uppercase and lowercase).
 Non-alphabetic characters are left unchanged.
